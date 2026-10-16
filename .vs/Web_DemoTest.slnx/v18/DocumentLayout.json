@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project-web\\Web_DemoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|c:\\project-web\\web_demotest\\web_demotest\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\views\\khachhang\\createacc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\views\\khachhang\\createacc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|C:\\project-web\\Web_DemoTest\\web_demotest\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C68F8903-3B81-4C37-ACBB-D71442B99807}|Web_DemoTest\\Web_DemoTest.csproj|solutionrelative:web_demotest\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Views\\KhachHang\\Edit.cshtml",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeToolTip": "Web_DemoTest\\Views\\KhachHang\\Edit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T06:04:23.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Web_DemoTest\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:30:45.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "Web_DemoTest\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T04:32:21.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateAcc.cshtml",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\KhachHang\\CreateAcc.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Views\\KhachHang\\CreateAcc.cshtml",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\KhachHang\\CreateAcc.cshtml",
+              "RelativeToolTip": "Web_DemoTest\\Views\\KhachHang\\CreateAcc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T04:47:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_DemoTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T04:17:20.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_DemoTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:06:11.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "Web_DemoTest\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T04:12:01.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Models\\Customer.cs",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Models\\Customer.cs",
+              "RelativeToolTip": "Web_DemoTest\\Models\\Customer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:11:53.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Web_DemoTest\\Models\\Model1.edmx",
+              "ToolTip": "C:\\project-web\\Web_DemoTest\\Web_DemoTest\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Web_DemoTest\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-14T04:10:41.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

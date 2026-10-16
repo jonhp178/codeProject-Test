@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/mystyle.css" />
+</head>
+<body>
+    <div id="div-top">
+        Menu
+    </div>
+    <div id="div-main">
+        <div id="div-left">
+            <h3>danh mục sản phẩm</h3>
+            <ul style="list-style: none">
+                <li>
+                    <a href="/Home/Index">trang chủ</a>
+                </li>
+                <li>
+                    <a href="/Home/TrangChu">Máy tính để bàn</a>
+                </li>
+                <li>
+                    điện thoại
+                </li>
+                <li>
+                    phụ kiện
+                </li>
+                <li>
+                    <a href="/Categories/Index">Thể loại</a>
+                </li>
+                <li>
+                    <a href="/Home/ThongTin">thông tin</a>
+                </li>
+                <li>
+                    <a href="/Home/DangKy">đăng ký</a>
+                </li>
+            </ul>
+        </div>
+        <div id="div-right">
+            @RenderBody()
+        </div>
+    </div>
+    <div id="div-footer">
+        Footer
+    </div>
+</body>
+</html>
